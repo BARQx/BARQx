@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NashitAhmedBarq)](https://github.com/NashitAhmedBarq/github-readme-stats)
+[![Nashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NashitAhmedBarq)](https://github.com/NashitAhmedBarq/github-readme-stats)
 
 
 <!--
