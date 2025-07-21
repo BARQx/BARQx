@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Nashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=NashitAhmedBarq&show_icons=true&hide_border=true)
+![Nashit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BARQx&show_icons=true&hide_border=true)
 
 
 <!--
