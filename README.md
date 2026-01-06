@@ -4,3 +4,6 @@
 
 ![Nashit's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=barqx)
 
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=barqx)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/streak/?username=barqx)
