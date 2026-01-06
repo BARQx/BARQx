@@ -2,7 +2,5 @@
 
 [![GitHub Streak]( https://github-readme-streak-stats-eight.vercel.app/?user=BARQx&theme=dracula)](https://git.io/streak-stats)
 
-![Nashit's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=barqx)](https://github.com/pranesh-2005/github-readme-stats-fast)
+![Nashit's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=barqx)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barqx&layout=compact&theme=dracula)
