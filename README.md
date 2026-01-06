@@ -4,4 +4,6 @@
 
 ![Nashit's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=barqx&theme=dracula)
 
+<!--
 ![Nashit's GitHub stats](https://github-readme-stats-fast.vercel.app/api/gist?id=1345eef09799d4e6ac4c9cce08805875)
+-->
